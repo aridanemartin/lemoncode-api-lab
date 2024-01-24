@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lemoncode.Lab.Api", "Lemoncode.Lab.Api\Lemoncode.Lab.Api.csproj", "{0AEE6E4C-F815-4BB3-BD35-B019B2733E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEE6E4C-F815-4BB3-BD35-B019B2733E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEE6E4C-F815-4BB3-BD35-B019B2733E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEE6E4C-F815-4BB3-BD35-B019B2733E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEE6E4C-F815-4BB3-BD35-B019B2733E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A71FA70-1071-4988-8F5A-BAF682C4C66E}
+	EndGlobalSection
+EndGlobal
